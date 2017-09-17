@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 class App extends Component {
   render() {
@@ -8,6 +8,10 @@ class App extends Component {
           <h1> 🦄 </h1>
           <h1>redux-starter</h1>
         </div>
+        <p>
+          Edit <strong> src/components/App.js </strong>
+          to get started...🚀
+        </p>
       </div>
     );
   }

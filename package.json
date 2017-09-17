@@ -1,13 +1,13 @@
 {
   "name": "redux-starter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple redux starter",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open ",
     "build": "webpack --config webpack.config.js"
   },
-  "author": "",
+  "author": "Raghib Hasan",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.2.1",
@@ -22,6 +22,7 @@
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "4.17.4",
+    "prop-types": "^15.5.10",
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-redux": "^5.0.5",
